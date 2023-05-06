@@ -10,3 +10,5 @@ To log in as itManger: john , password: johndoe123
 Note: To search item status (view items) use: f: for fixed ; im: for in progress
 
 Note: if the exe is not running, paste it to Desktop and try to setup it again
+project files:https://drive.google.com/drive/folders/1zq8lgk8zcnDYz6hdR8SeA8RHJnM14g-M?usp=sharing
+
